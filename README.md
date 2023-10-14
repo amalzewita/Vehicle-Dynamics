@@ -1,4 +1,4 @@
-# MATLAB Symbolic Equation Solver for Vehicle Parameters
+# MATLAB Symbolic Equation Solver for Vehicle Dynamics
 
 This repository provides a MATLAB script designed to solve a set of equations related to a vehicle's wheelbase and other properties. The script employs the Symbolic Math Toolbox to tackle the equations symbolically.
 
